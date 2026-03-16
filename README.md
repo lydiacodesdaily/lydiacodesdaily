@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Lydia 👋
+
+Senior Front-End & Product Engineer — I build tools that support how people actually think and work.
+
+After nearly a decade shipping federal platforms across health, defense, and intelligence at SAIC, I left to build products people actually want. That worked. Now I'm looking to bring that to a team.
 
 <!--
 **lydiacodesdaily/lydiacodesdaily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
